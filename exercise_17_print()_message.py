@@ -3,7 +3,7 @@ import sys
 
 def main():
     #print Omusula
-    v=print("Omusula")
+    v = print("Omusula")
     #print return value
     print(v)
 

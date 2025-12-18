@@ -4,7 +4,7 @@ import sys
 def main():
     try:
         #input user word
-        my_word= input("Enter Your Word:")
+        my_word = input("Enter Your Word:")
         #input a number
         my_number = int(input("Enter Your Number: "))
         #repeat word number times

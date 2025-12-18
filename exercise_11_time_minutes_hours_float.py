@@ -3,7 +3,7 @@ import sys
 
 def main():
     #ask user to unput number representing minutes
-    my_minutes =int (input ("Enter Number of minutes:" ))
+    my_minutes = int (input ("Enter Number of minutes:" ))
     #convert to float (Hours)
     hours = float(my_minutes) / 60
 

@@ -3,7 +3,7 @@ import sys
 
 def main():
     #input word
-    my_word=input("Please Enter a Word: ")
+    my_word = input("Please Enter a Word: ")
 
     #check if word starts with 'a' or 'A'
     if my_word[0] == "a" or my_word[0] == "A":
