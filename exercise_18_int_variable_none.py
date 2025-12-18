@@ -15,6 +15,7 @@ def main():
 #Why a Variable can change type
 #Python is a dynamically typed language
 #Meaning that a variable in Python does not have a fixed type upon its declaration
+#Therefore type of variable is determined during runtime
 
 
 
