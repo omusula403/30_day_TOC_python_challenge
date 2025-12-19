@@ -7,7 +7,7 @@ def main():
     second_word = input("Please Enter Second Word: ")
     third_word = input("Please Enter Third Word: ")
     #Store the words in a list
-    my_list = ["first_word", "second_word", "third_word"]
+    my_list = [first_word, second_word, third_word]
     #Print the list exactly as python displays it
     print(my_list)
     return 0
